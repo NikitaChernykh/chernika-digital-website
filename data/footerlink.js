@@ -5,7 +5,7 @@ export const links = [
 ];
 export const links2 = [
   { id: 5, href: "/privacy-policy", text: "PRIVACY POLICY" },
-  { id: 6, href: "/terms-conditions", text: "TERMS & CONDITIONS" },
+  { id: 6, href: "/terms-of-service", text: "TERMS & CONDITIONS" },
 ];
 export const links3 = [
   { id: 7, href: "/about", text: "About" },
