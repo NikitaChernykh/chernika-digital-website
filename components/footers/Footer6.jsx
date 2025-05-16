@@ -33,9 +33,7 @@ export default function Footer6() {
             <div className="col-md-6 align-self-center text-lg-end">
               <p className="copyright-text">
                 Copyright © {new Date().getFullYear()}{" "}
-                <a href="https://themeforest.net/user/ib-themes/portfolio">
-                  ib-themes
-                </a>
+                  Chernika Digital - FZCO
               </p>
             </div>
           </div>

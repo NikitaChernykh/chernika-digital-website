@@ -11,7 +11,7 @@ export default function Footer9() {
           <div className="row justify-content-between">
             <div className="col-md-6 col-xl-5 col-lg-6">
               <div className="widget widget-about footer-widget">
-                <h3 className="widget_title">About Frisk</h3>
+                <h3 className="widget_title">About Chernika Digital</h3>
                 <p className="about-text">
                   If you ask our clients what it’s like working with talk how
                   much we care about their success. relationships fuel real
@@ -50,8 +50,8 @@ export default function Footer9() {
           <div className="row gy-3 justify-content-between align-items-center">
             <div className="col-md-6">
               <p>
-                27 Division St, New York, <br />
-                NY 10002, USA
+                Silicon Oasis Building A1, <br />
+                Dubai, UAE
               </p>
             </div>
             <div className="col-md-6 align-self-center text-md-end">

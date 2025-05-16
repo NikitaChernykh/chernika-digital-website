@@ -14,7 +14,7 @@ export default function Hero() {
               </h1>
 
               <h1 className="hero-title text-lg-end wow img-custom-anim-right animated">
-                Digital Studio
+                Creative Studio
               </h1>
             </div>
             <div className="col-lg-6 offset-lg-6">
@@ -36,7 +36,7 @@ export default function Hero() {
               </div>
             </div>
           </div>
-          <div className="hero-year-tag wow img-custom-anim-left animated">
+          {/* <div className="hero-year-tag wow img-custom-anim-left animated">
             <Image
               width={40}
               height={40}
@@ -44,7 +44,7 @@ export default function Hero() {
               alt="img"
             />
             <h6>Agency of this year worldwide</h6>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

@@ -143,7 +143,7 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
                   </div>
                 </div>
                 <div className="col-auto d-none d-lg-block">
-                  <div className="header-button">
+                  {/* <div className="header-button">
                     <button
                       type="button"
                       className="search-btn searchBoxToggler"
@@ -173,7 +173,7 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
                       <span className="line"></span>
                       <span className="line"></span>
                     </button>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
