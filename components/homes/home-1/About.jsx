@@ -22,7 +22,7 @@ export default function About() {
         <Image
           width={838}
           height={730}
-          src="/assets/img/normal/about_1-1.jpg"
+          src="/assets/img/normal/about.jpg"
           alt="img"
         />
       </div>
@@ -33,18 +33,13 @@ export default function About() {
               <div className="about-content-wrap ">
                 <div className="title-area mb-0">
                   <h2 className="sec-title">
-                    Unlock Revenue Growth for Your Business
+                    We ship fast!
                   </h2>
                   <p className="sec-text mt-35">
-                    If you ask our clients what it’s like working with 36,
-                    they’ll talk about how much we care about their success. For
-                    us, real relationships fuel real success. We love building
-                    brands
+                  Whether it’s an MVP or a personal project, we help you build and launch quickly—without compromising on quality.
                   </p>
                   <p className="sec-text mt-30">
-                    We are a creative agency working with brands building
-                    insightful strategy, creating unique designs and crafting
-                    value
+                    We work to bring your ideas to life, with a focus on quick results without waste of time and resources.
                   </p>
                   <div className="btn-wrap mt-50">
                     <Link scroll={false} href="/about" className="link-btn">
