@@ -74,10 +74,10 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
           <div className="mobile-logo">
             <Link scroll={false} href="/">
               <Image
-                width={86}
-                height={24}
-                src="/assets/img/logo.svg"
-                alt="Ovation"
+                width={70}
+                height={70}
+                src="/assets/img/logo-sm.svg"
+                alt="chernika digital"
               />
             </Link>
           </div>
@@ -116,8 +116,8 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
                   <div className="header-logo">
                     <Link scroll={false} href="/">
                       <Image
-                        width={86}
-                        height={24}
+                        width={270}
+                        height={50}
                         src="/assets/img/logo.svg"
                         alt="logo"
                       />
