@@ -26,9 +26,9 @@ export default function Footer3() {
         <div className="container">
           <div className="row gy-3 justify-content-between align-items-center">
             <div className="col-md-6">
-              <div className="social-btn style3">
+              {/* <div className="social-btn style3">
                 <Socials />
-              </div>
+              </div> */}
             </div>
             <div className="col-md-6 align-self-center text-md-end">
               <p className="copyright-text">

@@ -74,8 +74,8 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
           <div className="mobile-logo">
             <Link scroll={false} href="/">
               <Image
-                width={70}
-                height={70}
+                width={50}
+                height={50}
                 src="/assets/img/logo-sm.svg"
                 alt="chernika digital"
               />
@@ -87,20 +87,17 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
             </ul>
           </div>
           <div className="sidebar-wrap">
-            <h6>27 Division St, New York,</h6>
-            <h6>NY 10002, USA</h6>
+            <h6>Building A1, DDP, Silicon Oasis</h6>
+            <h6>Dubai, UAE</h6>
           </div>
           <div className="sidebar-wrap">
             <h6>
-              <a href="tel:1800123654987">+1 800 123 654 987 </a>
-            </h6>
-            <h6>
-              <a href="mailto:frisk.agency@mail.com">frisk.agency@mail.com</a>
+              <a href="mailto:hello@chernikadigital.com">hello@chernikadigital.com</a>
             </h6>
           </div>
-          <div className="social-btn style3">
+          {/* <div className="social-btn style3">
             <MobileMenuSocials />
-          </div>
+          </div> */}
         </div>
       </div>
       {/*--==============================
@@ -116,9 +113,9 @@ export default function Header1({ parentClass = "nav-header header-layout1" }) {
                   <div className="header-logo">
                     <Link scroll={false} href="/">
                       <Image
-                        width={270}
+                        width={50}
                         height={50}
-                        src="/assets/img/logo.svg"
+                        src="/assets/img/logo-sm.svg"
                         alt="logo"
                       />
                     </Link>
