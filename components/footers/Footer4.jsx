@@ -47,9 +47,9 @@ export default function Footer4() {
                     27 Division St, New York, <br /> NY 10002, USA
                   </li>
                   <li>
-                    <a href="tel:1800123654987">+1 800 123 654 987</a>
-                    <a href="mailto:frisk.agency@mail.com">
-                      frisk.agency@mail.com
+                    {/* <a href="tel:1800123654987">+1 800 123 654 987</a> */}
+                    <a href="mailto:hello@chernikadigital.com">
+                      hello@chernikadigital.com
                     </a>
                   </li>
                 </ul>

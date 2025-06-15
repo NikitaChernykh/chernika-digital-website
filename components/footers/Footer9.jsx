@@ -56,9 +56,11 @@ export default function Footer9() {
             </div>
             <div className="col-md-6 align-self-center text-md-end">
               <p className="copyright-text">
-                <a href="tel:1800123654987"> +1 800 123 654 987 </a>
-                <br />
-                <a href="mailto:frisk.agency@mail.com">frisk.agency@mail.com</a>
+                {/* <a href="tel:1800123654987"> +1 800 123 654 987 </a>
+                <br /> */}
+                <a href="mailto:hello@chernikadigital.com">
+                      hello@chernikadigital.com
+                </a>
               </p>
             </div>
           </div>

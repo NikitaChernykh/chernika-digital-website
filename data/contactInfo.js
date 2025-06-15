@@ -12,8 +12,8 @@ export const contactInfo = [
     title: "Send a Message",
 
     text: "Good website tells a story that will make users fully immerse themselves operating",
-    linkText: "frisk.agency@mail.com",
-    linkUrl: "mailto:frisk.agency@mail.com",
+    linkText: "hello@chernikadigital.com",
+    linkUrl: "mailto:hello@chernikadigital.com",
   },
   // Add more feature cards as needed
 ];
@@ -29,9 +29,9 @@ export const contactInfo2 = [
   {
     iconSrc: "/assets/img/icon/speech-bubble.svg",
     title: "Email Address",
-    email: "frisk.agency@mail.com",
-    email2: "frisk.agency@mail.com",
-    linkUrl: "mailto:frisk.agency@mail.com",
+    email: "hello@chernikadigital.com",
+    email2: "hello@chernikadigital.com",
+    linkUrl: "mailto:hello@chernikadigital.com",
 
     linkText: "Send message",
   },

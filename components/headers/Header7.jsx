@@ -85,11 +85,13 @@ export default function Header7() {
             <h6>NY 10002, USA</h6>
           </div>
           <div className="sidebar-wrap">
-            <h6>
+            {/* <h6>
               <a href="tel:1800123654987">+1 800 123 654 987 </a>
-            </h6>
+            </h6> */}
             <h6>
-              <a href="mailto:frisk.agency@mail.com">frisk.agency@mail.com</a>
+              <a href="mailto:hello@chernikadigital.com">
+                hello@chernikadigital.com
+              </a>
             </h6>
           </div>
           <div className="social-btn style3">

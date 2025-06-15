@@ -19,8 +19,8 @@ export default function Hero() {
             </div>
             <div className="col-lg-6 offset-lg-6">
               <p className="hero-text wow img-custom-anim-right animated">
-                We are digital agency that helps businesses develop immersive
-                and engaging user experiences that drive top level growth
+                We create digital products to help you reach your goals and
+                improve your business
               </p>
               <div className="btn-group fade_right">
                 <Link

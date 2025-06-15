@@ -10,11 +10,11 @@ export default function Hero() {
             <div className="col-lg-12">
               <div className="hero-style7 text-center">
                 <h1 className="hero-title wow img-custom-anim-top animated text-smoke">
-                  We Help to Grow Your Business
+                  Build your idea with us!
                 </h1>
                 <p className="hero-text wow img-custom-anim-top animated text-smoke">
-                  We are digital agency that helps businesses develop immersive
-                  and engaging user experiences that drive top level growth
+                  We create digital products to help you reach your goals and
+                  improve your business
                 </p>
               </div>
             </div>

@@ -36,10 +36,10 @@ export default function About() {
                     We ship fast!
                   </h2>
                   <p className="sec-text mt-35">
-                  Whether it’s an MVP or a personal project, we help you build and launch quickly—without compromising on quality.
+                  Whether it’s an MVP or a personal project, we help you build and launch quickly—without compromising on quality
                   </p>
                   <p className="sec-text mt-30">
-                    We work to bring your ideas to life, with a focus on quick results without waste of time and resources.
+                    We work to bring your ideas to life, with a focus on quick results without waste of time and resources
                   </p>
                   <div className="btn-wrap mt-50">
                     <Link scroll={false} href="/about" className="link-btn">

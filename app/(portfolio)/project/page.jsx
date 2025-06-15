@@ -1,6 +1,6 @@
 import MarqueeComponent from "@/components/common/Marquee";
-import Footer8 from "@/components/footers/Footer8";
-import Header3 from "@/components/headers/Header3";
+import Footer3 from "@/components/footers/Footer3";
+import Header1 from "@/components/headers/Header1";
 import Breadcumb from "@/components/portfolio/Breadcumb";
 
 import Projects from "@/components/portfolio/Projects";
@@ -11,11 +11,11 @@ export const metadata = {
 export default function ProjectPage1() {
   return (
     <>
-      <Header3 />
+      <Header1 />
       <Breadcumb />
       <Projects />
       <MarqueeComponent />
-      <Footer8 />
+      <Footer3 />
     </>
   );
 }

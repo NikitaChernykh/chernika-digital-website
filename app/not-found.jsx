@@ -1,7 +1,7 @@
-import Header3 from "@/components/headers/Header3";
+import Header1 from "@/components/headers/Header1";
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
+import React from "react";  
 
 export const metadata = {
   title: "Not Found || Frisk - Creative Agency & Portfolio Nextjs Template",
@@ -9,7 +9,7 @@ export const metadata = {
 export default function NotFoundPage() {
   return (
     <>
-      <Header3 />
+      <Header1 />
       <div className="error-wrapper text-center">
         <div className="container">
           <Image

@@ -11,7 +11,7 @@ import Video from "@/components/homes/home-5/Video";
 import React from "react";
 import Footer5 from "@/components/footers/Footer5";
 export const metadata = {
-  title: "Home 5 || Frisk - Creative Agency & Portfolio Nextjs Template",
+  title: "Home || Chernika Digital - Creative Studio",
 };
 export default function HomePage5() {
   return (

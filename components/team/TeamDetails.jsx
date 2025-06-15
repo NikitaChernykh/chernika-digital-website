@@ -33,7 +33,7 @@ export default function TeamDetails({ teamId }) {
                 For almost 50 years Leighton Asia, one of the region’s largest
                 most respected construction companies been progressively
               </p>
-              <div className="about-contact-wrap mt-35">
+              {/* <div className="about-contact-wrap mt-35">
                 <h6 className="about-contact-title">
                   <a href="mailto:daniyel@Karlos.com">Daniyel@Karlos.com</a>
                 </h6>
@@ -47,7 +47,7 @@ export default function TeamDetails({ teamId }) {
                     </a>
                   ))}
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

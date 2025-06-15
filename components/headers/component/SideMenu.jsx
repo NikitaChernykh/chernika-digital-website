@@ -49,7 +49,9 @@ export default function SideMenu({ isOpen, setIsOpen }) {
                 <a href="tel:1800123654987">+1 800 123 654 987 </a>
               </h6>
               <h6>
-                <a href="mailto:frisk.agency@mail.com">frisk.agency@mail.com</a>
+                <a href="mailto:hello@chernikadigital.com">
+                  hello@chernikadigital.com
+                </a>
               </h6>
             </div>
             <div className="social-btn style2">

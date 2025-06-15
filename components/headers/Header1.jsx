@@ -1,7 +1,6 @@
 "use client";
 import SideMenu from "./component/SideMenu";
 import MobileNav from "./component/MobileNav";
-import MobileMenuSocials from "./component/MobileMenuSocials";
 import Nav from "./component/Nav";
 import { useEffect, useState } from "react";
 import Image from "next/image";

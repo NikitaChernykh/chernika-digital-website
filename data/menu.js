@@ -58,11 +58,11 @@ export const menuItems = [
   //   ],
   // },
   {
-    id: 3,
+    id: 2,
     title: "PORTFOLIO",
     subMenuItems: [
-      { id: 31, label: "Portfolio Masonary", link: "/project" },
-      { id: 32, label: "Portfolio Pinterest", link: "/project-2" },
+      { id: 31, label: "Handy.Watch", link: "/handywatch" },
+      { id: 32, label: "Geo Genius", link: "/geogenius" },
       // { id: 33, label: "Portfolio Gallery", link: "/project-3" },
       // { id: 34, label: "Portfolio Full Width", link: "/project-4" },
       // { id: 35, label: "Portfolio Slider", link: "/project-5" },
@@ -70,18 +70,15 @@ export const menuItems = [
       // { id: 37, label: "Portfolio Details", link: "/project-details/2" },
     ],
   },
-  // {
-  //   id: 4,
-  //   title: "BLOG",
-  //   subMenuItems: [
-  //     { id: 41, label: "Blog Standard", link: "/blog" },
-  //     { id: 42, label: "Blog 2 Column", link: "/blog-2" },
-  //     { id: 43, label: "Blog Details", link: "/blog-details/2" },
-  //   ],
-  // },
   {
-    id: 5,
-    title: "CONTACT",
-    link: "/contact",
+    id: 3,
+    title: "ABOUT",
+    isActive: false,
+    link: "/about",
   },
+  // {
+  //   id: 5,
+  //   title: "CONTACT",
+  //   link: "/contact",
+  // },
 ];
